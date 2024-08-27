@@ -1,0 +1,17 @@
+{
+    "file_paths":{
+        "data": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\Raw_data.xlsx",
+        "ngomb": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\Ngomb_position.json",
+        "nszer": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\Nszer_position.json",
+        "Ngomb_timeline": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\Ngomb_timeline.json",
+        "kgomb": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\Kgomb_position.json",
+        "trafo": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\trafo_position.json",
+        "Ngomb_rawdata": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\Ngomb_rawdata.json",
+        "error_data": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\json_files\\Ngomb_error_log.json",
+        "Ngombbackground": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\Backgrounds\\Ngomb_bground2.png",
+        "Kgombbackground": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\Backgrounds\\Kgomb_bground2.png",
+        "Nszerbackground": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\Backgrounds\\Nszer_bground2.png",
+        "Trafobackground": "C:\\Users\\smole\\Desktop\\SE_digiboard\\Current\\Backgrounds\\Traf_bground2.png"
+    }
+
+}

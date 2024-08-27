@@ -1,0 +1,2 @@
+ cd C:\Users\smole\Desktop\Melobaholnapra                    
+(venv) PS C:\Users\smole\Desktop\Melobaholnapra> pyinstaller --name N.gombolyitas --onefile --windowed main.py
