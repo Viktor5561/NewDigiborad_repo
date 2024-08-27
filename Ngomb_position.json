@@ -1,0 +1,47 @@
+{
+     "99999999": {
+          "x": 304.0,
+          "y": 348.0,
+          "color": "#e1a33c",
+          "second_row_color": "#000000",
+          "third_row_color": "#000000",
+          "fourth_row_color": "#6343f9",
+          "fifth_row_color": "#000000"
+     },
+     "777777777": {
+          "x": 393.0,
+          "y": 347.0,
+          "color": "#e97117",
+          "second_row_color": "#000000",
+          "third_row_color": "#6343f9",
+          "fourth_row_color": "#6343f9",
+          "fifth_row_color": "#6343f9"
+     },
+     "8888888": {
+          "x": 387.0,
+          "y": 143.0,
+          "color": "#e97117",
+          "second_row_color": "#000000",
+          "third_row_color": "#000000",
+          "fourth_row_color": "#000000",
+          "fifth_row_color": "#6343f9"
+     },
+     "22222222": {
+          "x": 486.0,
+          "y": 247.0,
+          "color": "#d9db7c",
+          "second_row_color": "#6343f9",
+          "third_row_color": "#6343f9",
+          "fourth_row_color": "#6343f9",
+          "fifth_row_color": "#6343f9"
+     },
+     "4444444": {
+          "x": 391.0,
+          "y": 247.0,
+          "color": "#e1a33c",
+          "second_row_color": "#6343f9",
+          "third_row_color": "#000000",
+          "fourth_row_color": "#000000",
+          "fifth_row_color": "#6343f9"
+     }
+}
